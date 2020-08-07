@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Jingqiang Lin's Scholar Pages
 
 You can use the [editor on GitHub](https://github.com/JingqiangLIN/JingqiangLIN.github.io/edit/master/%20(root)/index.md) to maintain and preview the content for your website in Markdown files.
 
