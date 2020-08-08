@@ -17,6 +17,9 @@ Applied Cryptography, Network Security, System Security
 - Bulleted
 - List
 
+- Fault-tolerance, Blockchain and Transparency
+- PKI and Authentication
+
 ### Publication
 1. Ze Wang, Jingqiang Lin, Quanwei Cai, Qiongxiao Wang, Daren Zha, Jiwu Jing, “Blockchain-based Certificate Transparency and Revocation Transparency”, IEEE Transactions on Dependable and Secure Computing (TDSC), accepted.
 2. Congwu Li, Le Guan, Jingqiang Lin, Bo Luo, Quanwei Cai, Jiwu Jing, Jing Wang, “Mimosa: Protecting Private Keys against Memory Disclosure Attacks using Hardware Transactional Memory”, IEEE Transactions on Dependable and Secure Computing (TDSC), accepted.
@@ -135,9 +138,3 @@ Applied Cryptography, Network Security, System Security
 115. Haijiao Liu, Jiwu Jing, Jingqiang Lin, Jiao Du, “Building an Intrusion Tolerant Repository”, Journal of Graduate School of Chinese Academy of Sciences, Vol. 23, No. 1, pp. 46-51, 2006.
 116. Jingqiang Lin, Dengguo Feng, “Temporary RSA Key and OCSP Server Implementation”, Journal of Graduate School of Chinese Academy of Sciences, Vol. 22, No. 1, pp. 59-63, 2005.
 117. Jiwu Jing, Peng Liu, Dengguo Feng, Ji Xiang, Neng Gao, Jingqiang Lin, “ARECA: A Highly Attack Resilient Certification Authority”, ACM Workshop on Survivable and Self-Regenerative Systems (SSRS), in conjunction with 10th ACM Conference on Computer and Communications Security (CCS), pp. 53-63, 2003.
-
-
-### Header 3
-
-- Bulleted
-- List
